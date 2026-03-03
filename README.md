@@ -94,7 +94,7 @@ My role focused on integrating the end-to-end demo pipeline and mapping model ou
 ## What We Would Build Next
 
 - Fine-tune ResNet on a book cover specific dataset for better visual matching
-- Add a mobile front end — the backend is ready, it just needs a UI
+- Add a mobile front end the backend is ready, it just needs a UI
 - Explore federated or on-device OCR to address privacy concerns at scale
 - Expand to any library system via API integration, not just ASU
 
