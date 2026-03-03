@@ -53,11 +53,11 @@ Book Cover Photo
 
 Three models. Each handling what it is best at.
 
-**EasyOCR** reads the text on the cover — title fragments, author names, publisher marks. It handles partial and noisy text reasonably well.
+**EasyOCR** reads the text on the cover title fragments, author names, publisher marks. It handles partial and noisy text reasonably well.
 
 **ResNet-50** (pretrained on ImageNet) extracts visual features from the cover image. Two visually similar covers produce similar vectors. Used as a feature extractor without fine-tuning.
 
-**BERT** (bert-base-uncased) converts the OCR text into semantic embeddings. This goes beyond keyword matching — it understands meaning, which matters when OCR extracts partial or slightly garbled text.
+**BERT** (bert-base-uncased) converts the OCR text into semantic embeddings. This goes beyond keyword matching it understands meaning, which matters when OCR extracts partial or slightly garbled text.
 
 **Hybrid matching** combines visual similarity and text similarity scores, then returns the highest-confidence match from the ASU library catalog.
 
