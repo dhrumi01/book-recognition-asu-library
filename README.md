@@ -69,7 +69,7 @@ We tested text-only and image-only approaches first.
 
 Text-only failed on covers with stylized fonts, partial text, and decorative layouts. Image-only failed when different editions of the same book had completely different cover designs.
 
-Combining both improved accuracy significantly — especially on the edge cases that broke each individual model.
+Combining both improved accuracy significantly especially on the edge cases that broke each individual model.
 
 ---
 
