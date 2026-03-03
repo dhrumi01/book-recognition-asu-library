@@ -112,7 +112,7 @@ My role focused on integrating the end-to-end demo pipeline and mapping model ou
 
 1. Open in Google Colab
 2. Mount Google Drive and update IMAGE_DIR and ASU_CSV paths to your dataset
-3. Run cells in order — all models download automatically
+3. Run cells in order all models download automatically
 4. Update query_img path in the final cell to test your own book cover photo
 
 ---
