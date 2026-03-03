@@ -87,7 +87,7 @@ Combining both improved accuracy significantly especially on the edge cases that
 
 ## What I Worked On
 
-My role focused on integrating the end-to-end demo pipeline and mapping model outputs to actionable library responses — translating raw cosine similarity scores into availability lookups, location data, and user-facing results.
+My role focused on integrating the end-to-end demo pipeline and mapping model outputs to actionable library responses translating raw cosine similarity scores into availability lookups, location data, and user-facing results.
 
 ---
 
