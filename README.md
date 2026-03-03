@@ -104,7 +104,7 @@ My role focused on integrating the end-to-end demo pipeline and mapping model ou
 
 | File | Description |
 |------|-------------|
-| `CIS_515.ipynb` | Full pipeline notebook — OCR extraction, ResNet visual features, BERT text embeddings, cosine similarity matching, and live demo |
+| `CIS_515.ipynb` | Full pipeline notebook OCR extraction, ResNet visual features, BERT text embeddings, cosine similarity matching, and live demo |
 
 ---
 
@@ -117,5 +117,5 @@ My role focused on integrating the end-to-end demo pipeline and mapping model ou
 
 ---
 
-Built at Arizona State University — CIS 515
+Built at Arizona State University CIS 515
 Dhrumi Kansara — linkedin.com/in/dhrumikansara — github.com/dhrumi01
